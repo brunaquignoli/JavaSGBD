@@ -2,6 +2,8 @@
 Sistema implementado em Java + Banco de dados!!
 Esse projeto em Java mostra realização de persistência de dados utilizando conexão com um SGBD (Sistema de Gerenciamento de Banco de Dados), utilizando JDBC ^^.
 
+(todos os arquivos estão aqui caso alguém queira rodar, incluindo o arquivo em sql!!)
+
 ## Funcionalidades
 
 - Cadastro de produtos
