@@ -17,13 +17,15 @@ Esse projeto em Java mostra realização de persistência de dados utilizando co
 - MySQL
 
 ### Terminal executando função Cadastrar():
-![Foto do terminal executando a funcionalidade de Cadastro](https://github.com/user-attachments/assets/cbd1d1da-dffa-4f33-8410-b7407ede0bfd)
+![Foto do terminal executando a funcionalidade de Cadastro](https://github.com/user-attachments/assets/2bc41f4a-e7d9-45f6-a374-e79342f73272)
+
 
 ### Terminal executando função Deletar():
-![Foto do terminal executando a funcionalidade de Exclusão](https://github.com/user-attachments/assets/fa834e43-664a-41f7-bde4-a35cf4829f17)
+![Foto do terminal executando a funcionalidade de Exclusão](https://github.com/user-attachments/assets/5c1a5f04-033e-4032-9701-e581dc178ce3)
+
 
 ### Terminal executando função Atualizar():
-![Foto do terminal executando a funcionalidade de Atualização](https://github.com/user-attachments/assets/ea2d763a-f4bc-436d-be2d-48e57ee902f4)
+![Foto do terminal executando a funcionalidade de Atualização](https://github.com/user-attachments/assets/69fed630-6cc4-4521-8ae3-587c20c01d19)
 
 
 
